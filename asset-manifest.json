@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/RK-Portfolio-Website/static/css/main.389687bc.css",
-    "main.js": "/RK-Portfolio-Website/static/js/main.c63f3eb2.js",
+    "main.css": "/RK-Portfolio-Website/static/css/main.1aa07314.css",
+    "main.js": "/RK-Portfolio-Website/static/js/main.8c49ccae.js",
     "static/js/453.d4e642aa.chunk.js": "/RK-Portfolio-Website/static/js/453.d4e642aa.chunk.js",
     "static/media/DSC_9812.JPG": "/RK-Portfolio-Website/static/media/DSC_9812.d29f595fc9b6490b5ce3.JPG",
     "static/media/DSC_9795.JPG": "/RK-Portfolio-Website/static/media/DSC_9795.675afba50a5322eef725.JPG",
-    "static/media/DSC_9569.JPG": "/RK-Portfolio-Website/static/media/DSC_9569.b0510144f879fbe21521.JPG",
+    "static/media/DSC_9568.JPG": "/RK-Portfolio-Website/static/media/DSC_9568.54c9a107c929ed3ec487.JPG",
     "static/media/DSC_9577.JPG": "/RK-Portfolio-Website/static/media/DSC_9577.a4820caea23327c370c3.JPG",
     "static/media/Profile-Picture.JPG": "/RK-Portfolio-Website/static/media/Profile-Picture.ea6b486b4ca7cf7490dc.JPG",
     "index.html": "/RK-Portfolio-Website/index.html",
-    "main.389687bc.css.map": "/RK-Portfolio-Website/static/css/main.389687bc.css.map",
-    "main.c63f3eb2.js.map": "/RK-Portfolio-Website/static/js/main.c63f3eb2.js.map",
+    "main.1aa07314.css.map": "/RK-Portfolio-Website/static/css/main.1aa07314.css.map",
+    "main.8c49ccae.js.map": "/RK-Portfolio-Website/static/js/main.8c49ccae.js.map",
     "453.d4e642aa.chunk.js.map": "/RK-Portfolio-Website/static/js/453.d4e642aa.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.389687bc.css",
-    "static/js/main.c63f3eb2.js"
+    "static/css/main.1aa07314.css",
+    "static/js/main.8c49ccae.js"
   ]
 }
