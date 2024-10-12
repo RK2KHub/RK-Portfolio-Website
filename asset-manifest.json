@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/RK-Portfolio-Website/static/css/main.1aa07314.css",
-    "main.js": "/RK-Portfolio-Website/static/js/main.ad58f470.js",
+    "main.js": "/RK-Portfolio-Website/static/js/main.22069b23.js",
     "static/js/453.d4e642aa.chunk.js": "/RK-Portfolio-Website/static/js/453.d4e642aa.chunk.js",
     "static/media/DSC_9812.JPG": "/RK-Portfolio-Website/static/media/DSC_9812.d29f595fc9b6490b5ce3.JPG",
     "static/media/DSC_9568.JPG": "/RK-Portfolio-Website/static/media/DSC_9568.54c9a107c929ed3ec487.JPG",
@@ -10,11 +10,11 @@
     "static/media/Leadership.jpeg": "/RK-Portfolio-Website/static/media/Leadership.9c94658bb4a23f51f70f.jpeg",
     "index.html": "/RK-Portfolio-Website/index.html",
     "main.1aa07314.css.map": "/RK-Portfolio-Website/static/css/main.1aa07314.css.map",
-    "main.ad58f470.js.map": "/RK-Portfolio-Website/static/js/main.ad58f470.js.map",
+    "main.22069b23.js.map": "/RK-Portfolio-Website/static/js/main.22069b23.js.map",
     "453.d4e642aa.chunk.js.map": "/RK-Portfolio-Website/static/js/453.d4e642aa.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1aa07314.css",
-    "static/js/main.ad58f470.js"
+    "static/js/main.22069b23.js"
   ]
 }
